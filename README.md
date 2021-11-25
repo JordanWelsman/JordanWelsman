@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## My name is Jordan and I'm a student studying
+# Data Science & Analytics
+## at Bournemouth University!
+
 <!--
 **JordanWelsman/JordanWelsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
