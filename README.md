@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-My name is Jordan (He/Him) :gb: and I'm a student studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at Bristol UWE before deciding to switch to data science. I'm currently on my placement (junior) year where I work at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in thre [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab  I work with teams of incredible scientists and researchers on open research projects involving soving problems using neural networks and deep learning.
+My name is Jordan (He/Him) :gb: and I'm a student studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at Bristol UWE before deciding to switch to data science. I'm currently on my placement (junior) year where I work at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in the [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab, I work with teams of incredible scientists and researchers on open research projects involving soving problems using neural networks and deep learning.
 
-It is here during both work and my free time where I have written most of my software.
-- I have contributed towards `inference-engine`, a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) that is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
+It's here, during both work and my free time where I have written most of my software.
+- I've contributed towards `inference-engine`, a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) that is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
 - **`REDACTED`** is a Python project of mine which **`REDACTED`**.
-- [`jutils`](https://github.com/JordanWelsman/jutils), another project of mine collects many useful utilities I've written and used in some of my other data science and Python projects.
+- [`jutils`](https://github.com/JordanWelsman/jutils), another project of mine collects many useful utilities I've written and used in some of my other data science and Python projects for other people to use.
 
 ## Education
 
