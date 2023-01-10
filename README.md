@@ -23,16 +23,16 @@ It is here during both work and my free time where I have written most of my sof
 - Student Assistant - Berkeley Lab
   - Contributed to [cutting-edge](https://en.wikipedia.org/wiki/Perlmutter_(supercomputer)) computational research projects
   - Contributed towards peer-reviewed, journal-published research papers
-  - Developed many open-source software packages
-  - Published several Python packages to the public domain
-  - Learned how to administer workflows on version-control platforms
+  - Developed many open-source [software repositories](https://github.com/JordanWelsman?tab=repositories)
+  - Published several [Python packages](https://pypi.org/user/welsman/) to the public domain
+  - Learned how to administer workflows on [version-control](https://github.com) platforms
 
 ## Links
 
-[Connect with me on LinkedIn](https://linkedin.com/in/jordanwelsman/)
-[View my repositories on GitHub](https://github.com/JordanWelsman)
-[See my Python packages on PyPI](https://pypi.org/user/welsman)
-[Send me an email](mailto:jordan.welsman@outlook.com)
+- [Connect with me on LinkedIn](https://linkedin.com/in/jordanwelsman/)
+- [View my work on GitHub](https://github.com/JordanWelsman)
+- [See my Python packages on PyPI](https://pypi.org/user/welsman)
+- [Send me an email](mailto:jordan.welsman@outlook.com)
 
 <!--
 **JordanWelsman/JordanWelsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
