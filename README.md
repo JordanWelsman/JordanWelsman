@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Jordan (He/Him) :gb: and I'm a student studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at Bristol UWE before deciding to switch to data science. I'm currently on my placement (junior) year where I work at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in the [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab, I work with teams of incredible scientists and researchers on open research projects involving solving problems using neural networks and deep learning.
+My name is Jordan (He/Him) :gb: and I'm a student studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at [Bristol UWE](https://en.wikipedia.org/wiki/University_of_the_West_of_England) before deciding to switch to data science. I'm currently on my placement (junior) year where I work at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in the [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab, I work with teams of incredible scientists and researchers on open research projects involving solving problems using neural networks and deep learning.
 
 It's here, during both work and my free time where I have written most of my software.
 
@@ -32,6 +32,7 @@ It's here, during both work and my free time where I have written most of my sof
 
 - [Connect with me on LinkedIn](https://linkedin.com/in/jordanwelsman/)
 - [View my work on GitHub](https://github.com/JordanWelsman)
+  - [`inference-engine`](https://github.com/BerkeleyLab/inference-engine)
   - [**`REDACTED`**]()
   - [`jutils`](https://github.com/JordanWelsman/jutils)
 - [See my Python packages on PyPI](https://pypi.org/user/welsman)
