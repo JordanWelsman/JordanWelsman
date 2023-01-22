@@ -33,10 +33,10 @@ It's here, during both work and my free time where I have written most of my sof
 - [Connect with me on LinkedIn](https://linkedin.com/in/jordanwelsman/)
 - [View my work on GitHub](https://github.com/JordanWelsman)
   - [`inference-engine`](https://github.com/BerkeleyLab/inference-engine)
-  - [**`REDACTED`**]()
+  - [**`REDACTED`**](#links)
   - [`jutils`](https://github.com/JordanWelsman/jutils)
 - [See my Python packages on PyPI](https://pypi.org/user/welsman)
-  - [**`REDACTED`**]()
+  - [**`REDACTED`**](#links)
   - [`jutils`](https://pypi.org/project/jutl)
 - [Send me an email](mailto:jordan.welsman@outlook.com)
 
