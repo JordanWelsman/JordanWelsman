@@ -38,14 +38,14 @@ It's here, during both work and my free time where I have written most of my sof
 
   <picture>
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=apprentice"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=light"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=light"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=swift"/>
   </picture>
 
 <!--
@@ -71,42 +71,42 @@ It's here, during both work and my free time where I have written most of my sof
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=apprentice"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=light"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=swift"/>
   </picture>
 
   <!-- 
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=apprentice"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=light"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=swift"/>
   </picture>
 
   -->
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=apprentice"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=swift"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=swift"/>
   </picture>
 
 </div>
