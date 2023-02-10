@@ -1,20 +1,20 @@
 # Hi there! 👋
 
-<div style="display:flex; flex-direction:row; justify-content:center">
+<div align="center">
 
   ![VSCode shield](https://img.shields.io/badge/Viual_Studio_Code-007ACC?style=for-the-badge&logo=github&logoColor=white)
   ![Git shield](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub shield](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Python shield](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![PyPI shield](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+  ![Slack shield](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Zoom shield](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 </div>
-<div style="display:flex; flex-direction:row; justify-content:center">
+<div align="center">
 
   ![Chrome shield](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
   ![Colab shield](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-  ![Slack shield](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![Zoom shield](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ![Discord shield](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![Spotify shield](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
