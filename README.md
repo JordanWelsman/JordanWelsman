@@ -138,16 +138,16 @@ It's here, during both work and my free time where I have written most of my sof
 This is my current development environment.
 
 ![MacBook Air shield](https://img.shields.io/badge/MacBook_Air_13"_(2020)-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-E07B33?style=for-the-badge&logo=macos&logoColor=white)
-![Python shield](https://img.shields.io/badge/Python_3.10.9-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-000000?style=for-the-badge&logo=macos&logoColor=E07B33)
+![Python shield](https://img.shields.io/badge/Python_3.10.9-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)
 ![PyTorch shield](https://img.shields.io/badge/PyTorch_1.13.1-1D1D1D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 
 </div>
 <div align="center">
 
 ![MacBook Pro shield](https://img.shields.io/badge/MacBook_Pro_16"_(2021)-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-E07B33?style=for-the-badge&logo=macos&logoColor=white)
-![Python shield](https://img.shields.io/badge/Python_3.11.2-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-000000?style=for-the-badge&logo=macos&logoColor=E07B33)
+![Python shield](https://img.shields.io/badge/Python_3.11.2-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)
 
 </div>
 <div align="center">
@@ -156,7 +156,7 @@ This is my current development environment.
 ![MSI Nvidia shield](https://img.shields.io/badge/RTX_3060_Ti_(8GB)-76B900?style=for-the-badge&logo=msi&logoColor=FF0000)
 ![Corsair shield](https://img.shields.io/badge/32GB_2400MHz-000000?style=for-the-badge&logo=corsair&logoColor=white)
 ![Windows shield](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Python shield](https://img.shields.io/badge/Python_3.10.9-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Python shield](https://img.shields.io/badge/Python_3.10.9-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)
 ![TensorFlow shield](https://img.shields.io/badge/TensorFlow_2.11.0-3A465B?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Razer shield](https://img.shields.io/badge/Razer_Mamba-000000?style=for-the-badge&logo=razer&logoColor=00FF00)
 
@@ -170,7 +170,7 @@ This is my current development environment.
 [![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman?tab=repositories)
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-181717?style=for-the-badge&logo=github&logoColor=white)](#links)
-[![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JordanWelsman/jutils)
+[![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/jutils)
 
 [![See my Python packages on PyPI](https://img.shields.io/badge/See_my_packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/welsman)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](#links)
