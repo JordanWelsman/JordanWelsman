@@ -48,16 +48,62 @@ It's here, during both work and my free time where I have written most of my sof
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=light"/>
 </picture>
 
-[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordanWelsman&theme=github)](https://github.com/JordanWelsman)
+<picture>
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordanWelsman&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordanWelsman&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JordanWelsman&theme=github"/>
+</picture>
 
 </div>
 <div align="center">
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=light)](https://github.com/BerkeleyLab/inference-engine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=light)](https://github.com/JordanWelsman/redacted)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light)](https://github.com/JordanWelsman/jutils)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=light"/>
+</picture>
+
+<!--
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=light"/>
+</picture>
+
+-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light"/>
+</picture>
 
 </div>
 
