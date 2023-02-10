@@ -167,7 +167,7 @@ This is my current development environment.
 
 [![LinkedIn shield](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/JordanWelsman)
 
-[![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman&tab=repositories)
+[![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman?tab=repositories)
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-181717?style=for-the-badge&logo=github&logoColor=white)](#links)
 [![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/JordanWelsman/jutils)
