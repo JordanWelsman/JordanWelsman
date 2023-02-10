@@ -38,7 +38,7 @@ It's here, during both work and my free time where I have written most of my sof
 
   <picture>
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue-darkhide_border=true"
+      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue-dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -71,7 +71,7 @@ It's here, during both work and my free time where I have written most of my sof
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-darkhide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -85,7 +85,7 @@ It's here, during both work and my free time where I have written most of my sof
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=vue-darkhide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=vue-dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
