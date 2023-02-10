@@ -165,7 +165,7 @@ This is my current development environment.
 
 ## Links
 
-[![LinkedIn shield](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/JordanWelsman)
+[![LinkedIn shield](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JordanWelsman)
 
 [![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman?tab=repositories)
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
