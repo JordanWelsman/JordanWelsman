@@ -93,6 +93,8 @@ It's here, during both work and my free time where I have written most of my sof
 
 -->
 
+<!--
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=dark"
@@ -104,6 +106,8 @@ It's here, during both work and my free time where I have written most of my sof
   />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=light"/>
 </picture>
+
+-->
 
 </div>
 
