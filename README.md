@@ -109,6 +109,30 @@ It's here, during both work and my free time where I have written most of my sof
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue"/>
   </picture>
 
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue-dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"/>
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue-dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue"/>
+  </picture>
+
 </div>
 
 ## Education
