@@ -195,12 +195,12 @@ This is my current development environment.
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-181717?style=for-the-badge&logo=github&logoColor=white)](#links)
 [![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/jutils)
-[![mathplug shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/mathplug)
+[![mathplug shield](https://img.shields.io/badge/mathplug-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/mathplug)
 
 [![See my Python packages on PyPI](https://img.shields.io/badge/See_my_packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/welsman)
-[![REDACTED shield](https://img.shields.io/badge/REDACTED-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](#links)
+[![REDACTED shield](https://img.shields.io/badge/REDACTED-181717?style=for-the-badge&logo=pypi&logoColor=white)](#links)
 [![jutils shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/jutl)
-[![mathplug shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mathplug)
+[![mathplug shield](https://img.shields.io/badge/mathplug-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mathplug)
 
 </div>
 <div align="center">
