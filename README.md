@@ -28,7 +28,7 @@
 
 It's here, during both work and my free time where I have written most of my software.
 
-- I've contributed towards `inference-engine`, a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) that is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
+- I've contributed towards [`inference-engine`](https://github.com/BerkeleyLab/inference-engine), a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) that is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
 - **`REDACTED`** is a Python project of mine which **`REDACTED`**.
 - [`jutils`](https://github.com/JordanWelsman/jutils), another project of mine collects many useful utilities I've written and used in some of my other data science and Python projects for other people to use.
 
