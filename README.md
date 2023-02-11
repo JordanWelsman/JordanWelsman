@@ -162,7 +162,7 @@ It's here, during both work and my free time where I have written most of my sof
 This is my current development environment.
 
 ![MacBook Air shield](https://img.shields.io/badge/MacBook_Air_13"_(2020)-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-000000?style=for-the-badge&logo=macos&logoColor=E07B33)
+![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-E07B33?style=for-the-badge&logo=macos&logoColor=white)
 ![Python shield](https://img.shields.io/badge/Python_3.10.9-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)
 ![PyTorch shield](https://img.shields.io/badge/PyTorch_1.13.1-1D1D1D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 
@@ -170,7 +170,7 @@ This is my current development environment.
 <div align="center">
 
 ![MacBook Pro shield](https://img.shields.io/badge/MacBook_Pro_16"_(2021)-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-000000?style=for-the-badge&logo=macos&logoColor=E07B33)
+![MacOS shield](https://img.shields.io/badge/MacOS_13.0_(Ventura)-E07B33?style=for-the-badge&logo=macos&logoColor=white)
 ![Python shield](https://img.shields.io/badge/Python_3.11.2-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)
 
 </div>
@@ -195,10 +195,12 @@ This is my current development environment.
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-181717?style=for-the-badge&logo=github&logoColor=white)](#links)
 [![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/jutils)
+[![mathplug shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/mathplug)
 
 [![See my Python packages on PyPI](https://img.shields.io/badge/See_my_packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/welsman)
 [![REDACTED shield](https://img.shields.io/badge/REDACTED-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](#links)
-[![PyPI shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/jutl)
+[![jutils shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/jutl)
+[![mathplug shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mathplug)
 
 </div>
 <div align="center">
