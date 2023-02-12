@@ -146,6 +146,23 @@ It's here, during both work and my free time where I have written most of my sof
   </picture>
 
 </div>
+<div align="center">
+
+## Contribution Graph
+
+  <picture>
+    <source
+      srcset="./profile-3d-contrib/profile-night-view.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="./profile-3d-contrib/profile-green-animate.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="./profile-3d-contrib/profile-green-animate.svg"/>
+  </picture>
+
+</div>
 
 ## Education
 
