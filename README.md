@@ -36,29 +36,29 @@ It's here, during both work and my free time where I have written most of my sof
 
 ## Stats
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JordanWelsman&show_icons=true&theme=vue&hide_border=true"/>
-  </picture>
+</picture>
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JordanWelsman&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=JordanWelsman&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=JordanWelsman&theme=vue&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=JordanWelsman&theme=vue&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JordanWelsman&theme=vue&hide_border=true"/>
-  </picture>
+</picture>
 
 <!--
 
@@ -81,86 +81,82 @@ It's here, during both work and my free time where I have written most of my sof
 
 ## Projects
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"/>
-  </picture>
+</picture>
 
-  <!-- 
-
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=nexport&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=nexport&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=redacted&theme=vue"/>
-  </picture>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=nexport&theme=vue"/>
+</picture>
 
-  -->
-
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=jutils&theme=vue"/>
-  </picture>
+</picture>
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"/>
-  </picture>
+</picture>
 
-  <picture>
+<picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue-dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=JordanWelsman&theme=vue"/>
-  </picture>
+</picture>
 
 </div>
 <div align="center">
 
 ## Contribution Graph
 
-  <picture>
+<picture>
     <source
-      srcset="./profile-3d-contrib/profile-night-view.svg"
-      media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-view.svg"
+    media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="./profile-3d-contrib/profile-green-animate.svg"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="./profile-3d-contrib/profile-green-animate.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="./profile-3d-contrib/profile-green-animate.svg"/>
-  </picture>
+</picture>
 
 </div>
 
