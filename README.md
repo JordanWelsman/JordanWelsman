@@ -29,7 +29,7 @@
 It's here, during both work and my free time where I have written most of my software.
 
 - I've contributed towards [`inference-engine`](https://github.com/BerkeleyLab/inference-engine), a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) that is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
-- **`REDACTED`** is a Python project of mine which **`REDACTED`**.
+- [`nexport`](https://github.com/JordanWelsman/nexport) is a Python project of mine which allows users to exports the parameters of deep neural networks to human-readable filetypes.
 - [`jutils`](https://github.com/JordanWelsman/jutils), another project of mine collects many useful utilities I've written and used in some of my other data science and Python projects for other people to use.
 
 <div align="center">
@@ -232,7 +232,7 @@ This is my current development environment.
 
 [Send me an email](mailto:jordan.welsman@outlook.com)
 
-[![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJordanWelsman1212%2Fhit-counter)](https://github.com/JordanWelsman)
+[![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJordanWelsman1212%2Fhit-counter?style=for-the-badge)](https://github.com/JordanWelsman)
 
 </div>
 
