@@ -174,14 +174,15 @@ It's here, during both work and my free time where I have written most of my sof
 
 ## Education
 
-- BSc (Hons) Cyber Security & Digital Forensics - University of the West of England
-  - C, C++
-  - Microsft SQL, MongoDB
 - BSc (Hons) Data Science & Analytics - Bournemouth University
   - Python, Flask
   - HTML, CSS, PHP, JavaScript
-  - Oracle SQL, MySQL
   - Java, Kotlin
+  - Oracle SQL, MySQL
+- BSc (Hons) Cyber Security & Digital Forensics - University of the West of England
+  - Git, GitHub
+  - C, C++
+  - Microsft SQL, MongoDB
 
 ## Experience
 
