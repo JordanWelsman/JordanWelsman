@@ -25,11 +25,13 @@
 
 </div>
 
-It's here, during both work and my free time where I have written most of my software.
+It's here, during both work and my free time where I have written most of my open-source software.
 
-- I've contributed towards [`inference-engine`](https://github.com/BerkeleyLab/inference-engine), a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) on a research project in which it is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
-- [`nexport`](https://github.com/JordanWelsman/nexport) is a Python project of mine which allows users to exports the parameters of deep neural networks to human-readable filetypes.
-- [`jutils`](https://github.com/JordanWelsman/jutils), another project of mine collects many useful utilities I've written and used in some of my other data science and Python projects for other people to use.
+- [`openjson`](https://github.com/JordanWelsman/openjson) is a Python module that provides fiexible JSON serialization and I/O functionality in a modular implmentation. It empowers users to control how their JSON files are written and can be used in a plethora of Python applications.
+- [`jutils`](https://github.com/JordanWelsman/jutils) is another project of mine which collates the many useful tools and code snippets I've written and used in my other data science and Python projects in a nice importable package for other developers to use.
+- [`nexport`](https://github.com/JordanWelsman/nexport) is a Python project of mine which allows users to exports the parameters of deep neural networks to human-readable filetypes. It relies on the functionality of `openjson` for its flexible JSON encoding and `jutils` for its useful importable utilities.
+- [`mathplug`](https://github.com/JordanWelsman/mathplug) is a Python module which contains importable mathematical functions and equations for use in applications which require complex problem solving with simple I/O.
+- I've also made contributions towards [`inference-engine`](https://github.com/BerkeleyLab/inference-engine), a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) on a research project in which it is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
 
 <div align="center">
 
@@ -83,17 +85,17 @@ It's here, during both work and my free time where I have written most of my sof
 
 ## Projects
 
-<a href="https://github.com/BerkeleyLab/inference-engine">
+<a href="https://github.com/JordanWelsman/openjson">
     <picture>
         <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-dark&hide_border=true"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=openjson&theme=vue-dark&hide_border=true"
         media="(prefers-color-scheme: dark)"
         />
         <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=openjson&theme=vue"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=openjson&theme=vue"/>
     </picture>
 </a>
 
@@ -136,6 +138,20 @@ It's here, during both work and my free time where I have written most of my sof
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=mathplug&theme=vue"/>
+    </picture>
+</a>
+
+<a href="https://github.com/BerkeleyLab/inference-engine">
+    <picture>
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue-dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+        />
+        <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=BerkeleyLab&repo=inference-engine&theme=vue"/>
     </picture>
 </a>
 
@@ -230,14 +246,16 @@ This is my current development environment.
 [![LinkedIn shield](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JordanWelsman)
 
 [![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman?tab=repositories)
-[![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
-[![nexport shield](https://img.shields.io/badge/nexport-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/nexport)
+[![openjson shield](https://img.shields.io/badge/openjson-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/openjson)
 [![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/jutils)
+[![nexport shield](https://img.shields.io/badge/nexport-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/nexport)
 [![mathplug shield](https://img.shields.io/badge/mathplug-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/mathplug)
+[![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 
 [![See my Python packages on PyPI](https://img.shields.io/badge/See_my_packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/welsman)
-[![REDACTED shield](https://img.shields.io/badge/nexport-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/nexport)
+[![openjson shield](https://img.shields.io/badge/openjson-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/openjson)
 [![jutils shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/jutl)
+[![nexport shield](https://img.shields.io/badge/nexport-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/nexport)
 [![mathplug shield](https://img.shields.io/badge/mathplug-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mathplug)
 
 </div>
