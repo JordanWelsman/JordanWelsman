@@ -2,6 +2,14 @@
 
 <div align="center">
 
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/openjson?color=orange&label=openjson&style=for-the-badge)](https://github.com/JordanWelsman/openjson/releases)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/jutils?color=blue&label=jutils&style=for-the-badge)](https://github.com/JordanWelsman/jutils/releases)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/nexport?color=red&label=nexport&style=for-the-badge)](https://github.com/JordanWelsman/nexport/releases)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/mathplug?color=yellow&label=mathplug&style=for-the-badge)](https://github.com/JordanWelsman/mathplug/releases)
+
+</div>
+<div align="center">
+
   [![VSCode shield](https://img.shields.io/badge/Viual_Studio_Code-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://code.visualstudio.com/)
   [![Git shield](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub shield](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
