@@ -3,6 +3,7 @@
 <div align="center">
 
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/openjson?color=orange&label=openjson&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/openjson/releases)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/opencsv?color=aqua&label=opencsv&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/opencsv/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/jutils?color=blue&label=jutils&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/jutils/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/nexport?color=red&label=nexport&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/nexport/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/mathplug?color=yellow&label=mathplug&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/mathplug/releases)
