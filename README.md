@@ -4,6 +4,7 @@
 
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/jutils?color=blue&label=jutils&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/jutils/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/nexport?color=red&label=nexport&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/nexport/releases)
+  [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/gigaloader?color=pink&label=gigaloader&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/gigaloader/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/openjson?color=orange&label=openjson&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/openjson/releases)
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/opencsv?color=green&label=opencsv&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/opencsv/releases)
     [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JordanWelsman/freexml?color=turquoise&label=freexml&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/JordanWelsman/freexml/releases)
@@ -41,6 +42,7 @@ It's here, during both work and my free time where I have written most of my ope
 - [`openjson`](https://github.com/JordanWelsman/openjson) is a Python module that provides fiexible JSON serialization and I/O functionality in a modular implmentation. It empowers users to control how their JSON files are written and can be used in a plethora of Python applications.
 - [`jutils`](https://github.com/JordanWelsman/jutils) is another project of mine which collates the many useful tools and code snippets I've written and used in my other data science and Python projects in a nice importable package for other developers to use.
 - [`nexport`](https://github.com/JordanWelsman/nexport) is a Python project of mine which allows users to exports the parameters of deep neural networks to human-readable filetypes. It relies on the functionality of `openjson` for its flexible JSON encoding and `jutils` for its useful importable utilities.
+- [`gigaloader`](https://github.com/JordanWelsman/gigaloader) is a simple implementation of a loading interface. Its main use case is to provide visual feedback to the user when a long wait time occurs as part of a complex computational workload with no existing feedback. It is designed to seamlessly interface with existing code, minimising implementation time.
 - [`mathplug`](https://github.com/JordanWelsman/mathplug) is a Python module which contains importable mathematical functions and equations for use in applications which require complex problem solving with simple I/O.
 - I've also made contributions towards [`inference-engine`](https://github.com/BerkeleyLab/inference-engine), a neural network inference framework written in [FORTRAN](https://en.wikipedia.org/wiki/Fortran) on a research project in which it is deployed in [ICAR](https://ral.ucar.edu/solutions/products/intermediate-complexity-atmospheric-research-icar), an accelerated atmospheric simulation model.
 
@@ -96,7 +98,7 @@ It's here, during both work and my free time where I have written most of my ope
 
 ## Projects
 
-<a href="https://github.com/JordanWelsman/openjson">
+<!-- <a href="https://github.com/JordanWelsman/openjson">
     <picture>
         <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=openjson&theme=vue-dark&hide_border=true"
@@ -108,7 +110,7 @@ It's here, during both work and my free time where I have written most of my ope
         />
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=openjson&theme=vue"/>
     </picture>
-</a>
+</a> -->
 
 <a href="https://github.com/JordanWelsman/jutils">
     <picture>
@@ -124,6 +126,20 @@ It's here, during both work and my free time where I have written most of my ope
     </picture>
 </a>
 
+<a href="https://github.com/JordanWelsman/gigaloader">
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=gigaloader&theme=vue-dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=gigaloader&theme=vue"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordanWelsman&repo=gigaloader&theme=vue"/>
+    </picture>
+</a>
+  
 <a href="https://github.com/JordanWelsman/nexport">
     <picture>
         <source
@@ -257,15 +273,17 @@ This is my current development environment.
 [![LinkedIn shield](https://img.shields.io/badge/Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JordanWelsman)
 
 [![GitHub shield](https://img.shields.io/badge/View_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanWelsman?tab=repositories)
-[![openjson shield](https://img.shields.io/badge/openjson-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/openjson)
+<!-- [![openjson shield](https://img.shields.io/badge/openjson-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/openjson) -->
 [![jutils shield](https://img.shields.io/badge/jutils-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/jutils)
+[![gigaloader shield](https://img.shields.io/badge/gigaloader-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/gigaloader)
 [![nexport shield](https://img.shields.io/badge/nexport-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/nexport)
 [![mathplug shield](https://img.shields.io/badge/mathplug-3776AB?style=for-the-badge&logo=python&logoColor=F7C436)](https://github.com/JordanWelsman/mathplug)
 [![inference-engine shield](https://img.shields.io/badge/inference_engine-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://github.com/BerkeleyLab/inference-engine)
 
 [![See my Python packages on PyPI](https://img.shields.io/badge/See_my_packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/welsman)
-[![openjson shield](https://img.shields.io/badge/openjson-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/openjson)
+<!-- [![openjson shield](https://img.shields.io/badge/openjson-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/openjson) -->
 [![jutils shield](https://img.shields.io/badge/jutils-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/jutl)
+[![gigaloader shield](https://img.shields.io/badge/gigaloader-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/gigaloader)
 [![nexport shield](https://img.shields.io/badge/nexport-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/nexport)
 [![mathplug shield](https://img.shields.io/badge/mathplug-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/mathplug)
 
