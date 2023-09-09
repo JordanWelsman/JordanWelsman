@@ -33,11 +33,11 @@
 </div>
 <div align="center">
 
-  My name is Jordan (He/Him) :gb: and I'm a student studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at [Bristol UWE](https://en.wikipedia.org/wiki/University_of_the_West_of_England) before deciding to switch to data science. I'm currently on my placement (junior) year where I work at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in the [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab, I work with teams of incredible scientists and researchers on open research projects involving solving problems using neural networks and deep learning.
+  My name is Jordan (He/Him) :gb: and I'm a final year student (senior) studying _Data Science & Analytics_ at [Bournemouth University](https://en.wikipedia.org/wiki/Bournemouth_University) :mortar_board:. Prior to studying at BU, I studied Cyber Security at [Bristol UWE](https://en.wikipedia.org/wiki/University_of_the_West_of_England) before deciding to switch to data science. I just finished my placement (junior) year where I worked at [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) in the [San Francisco Bay Area](https://www.google.com/maps/place/San+Francisco+Bay+Area) :us:. At the lab, I worked with teams of incredible scientists and researchers on open research projects involving solving problems using neural networks and deep learning.
 
 </div>
 
-It's here, during both work and my free time where I have written most of my open-source software.
+It's here, during both work and my free time where I have wrote most of my open-source software.
 
 - [`openjson`](https://github.com/JordanWelsman/openjson) is a Python module that provides fiexible JSON serialization and I/O functionality in a modular implmentation. It empowers users to control how their JSON files are written and can be used in a plethora of Python applications.
 - [`jutils`](https://github.com/JordanWelsman/jutils) is another project of mine which collates the many useful tools and code snippets I've written and used in my other data science and Python projects in a nice importable package for other developers to use.
